@@ -6,8 +6,8 @@
 ## <div align="center"> Sono uno Jr. Full Stack Web Developer 🚀</div>
 
 <div align="center">•👨🏻‍💻 Ho studiato presso la tech academy di Boolean ed ho acquisito competenze nell'utilizzo di tecnologie frontend e backend per la realizzazione di applicazioni e siti web.</div>
-<div align="center">•🌱 Amo essere in continuo aggiornamento e ho voglia di ampliare le mie conoscenze, imparando, se dovesse servire, anche nuovi framework o nuovi linguaggi di programmazione.</div>
-<div align="center">•🎮 Sono appassionato di tecnologia e videogiochi sin da quando ero bambino.</div>
+<div align="center">•🌱 Amo essere in continuo aggiornamento e ho voglia di ampliare le mie conoscenze, imparando anche nuovi framework o nuovi linguaggi di programmazione.</div>
+<div align="center">•🎮 Sono appassionato di tecnologia sin da quando ero bambino.</div>
 
 
 ### <div align="center">💻 COMPETENZE TECNICHE</div>
@@ -25,7 +25,7 @@
 <a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://www.freecodecamp.org/news/content/images/2022/04/sass-image.png" alt="Sass" height="50" /></a> 
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" alt="JavaScript" height="50" /></a>  
 <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" alt="Vue.js" height="50" /></a>  
-<a href="https://vitejs.dev/" target="_blank"><img style="margin: 10px" src="https://vitejs.dev/logo-with-shadow.png" alt="Vite.js" height="50" /></a> 
+<!-- <a href="https://vitejs.dev/" target="_blank"><img style="margin: 10px" src="https://vitejs.dev/logo-with-shadow.png" alt="Vite.js" height="50" /></a>  -->
 </div>
 </td>
   
