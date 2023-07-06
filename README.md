@@ -47,7 +47,7 @@
 
 ### <div align="center">STATISTICHE</div>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Gianmarco-Leone&show_icons=true&hide=stars&theme=merko" />
+<img src="https://github-readme-stats.vercel.app/api?username=Gianmarco-Leone&show_icons=true&theme=merko" />
 </div>
 
 ### <div align="center">CONTATTI</div>
