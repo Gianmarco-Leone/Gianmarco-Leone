@@ -5,7 +5,7 @@
 
 ## <div align="center"> Sono uno Jr. Full Stack Web Developer 🚀</div>
 
-<div align="center">•📚 Attualmente sto studiando Java.</div>
+<div align="center">•📚 Attualmente sto approfondendo Docker.</div>
 <div align="center">•👨🏻‍💻 Ho studiato presso la tech academy di Boolean ed ho acquisito competenze nell'utilizzo di tecnologie frontend e backend per la realizzazione di applicazioni e siti web.</div>
 <div align="center">•🌱 Amo essere in continuo aggiornamento e ho voglia di ampliare le mie conoscenze, imparando anche nuovi framework o nuovi linguaggi di programmazione.</div>
 <div align="center">•🎮 Sono appassionato di tecnologia sin da quando ero bambino.</div>
